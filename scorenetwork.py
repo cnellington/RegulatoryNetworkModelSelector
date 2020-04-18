@@ -1,6 +1,5 @@
 """
 Caleb Ellington
-CSE 427: Computational Biology
 01/25/2020
 """
 
